@@ -1,6 +1,5 @@
 ---
 title: "Rush Agarwal"
-description: "blog."
 ---
 
 # Hello World
