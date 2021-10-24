@@ -16,7 +16,11 @@ Here is a great [blog](https://www.freecodecamp.org/news/what-is-great-about-dev
 
 ## Why to create open source content?
 
-Their are couple of websites such as GitHub Docs and Ethereum that allow open source contribution to their web content. Most of the open source repositories hosting website code closely linked with website content also allow contribution to their content. However, I have not seen anyone using open source repositories solely for collaboration on content development.
+Their are couple of websites such as GitHub Docs and Ethereum that allow open source contribution to their web content. 
+
+![Ethereum](/assets/images/25-10-21-ethereum-ss.png "Ethereum")
+
+Most of the open source repositories hosting website code closely linked with website content also allow contribution to their content. However, I have not seen anyone using open source repositories solely for collaboration on content development.
 
 With open source content, I intend to achieve following:
 
@@ -42,4 +46,4 @@ Get Started with [GitHub Pages](https://pages.github.com/).
 3. You don't need to limit yourself to the services and design provided by other blogging sites like Blogger or Medium.
 4. You don't need to spend a dime.
 
-You can view and contribute to the source files for this site at: https://github.com/rushout09/rushout09.github.io
+(You can view and contribute to the source files for this site at: https://github.com/rushout09/rushout09.github.io)
