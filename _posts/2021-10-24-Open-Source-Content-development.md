@@ -6,7 +6,7 @@ What is Open Source Content development, why and how I am building a blog using 
 
 ## What is Open Source Content?
 
-Open Source Content is a Content that is designed to be publicly accessible—anyone can see, modify, and distribute the content as they see fit.
+Open Source Content is Content that is designed to be publicly accessible—anyone can see, modify, and distribute the content as they see fit.
 
 1. Anyone can inspect the content of the blog - because obviously.
 2. Anyone can modify and contribute to the source (content, code, config, markup, and design) of the site - with the approval of the moderator(s).
@@ -46,4 +46,4 @@ Get Started with [GitHub Pages](https://pages.github.com/).
 3. You don't need to limit yourself to the services and design provided by other blogging sites like Blogger or Medium.
 4. You don't need to spend a dime.
 
-(You can view and contribute to the source files for this site at: https://github.com/rushout09/rushout09.github.io)
+You can view and contribute to the source files for this site at: (https://github.com/rushout09/rushout09.github.io)
