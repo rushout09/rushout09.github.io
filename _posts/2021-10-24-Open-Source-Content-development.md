@@ -46,4 +46,4 @@ Get Started with [GitHub Pages](https://pages.github.com/).
 3. You don't need to limit yourself to the services and design provided by other blogging sites like Blogger or Medium.
 4. You don't need to spend a dime.
 
-You can view and contribute to the source files for this site at: (https://github.com/rushout09/rushout09.github.io)
+Found mistakes or something better to add? You can contribute to this blog by creating a pull request [here](https://github.com/rushout09/rushout09.github.io)
