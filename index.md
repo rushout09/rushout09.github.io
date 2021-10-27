@@ -6,8 +6,9 @@ title: "Rush Agarwal"
 
 <ul id="post-list">
   {% for post in site.posts %}
-    <li id="post-item">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+    <li>
+      <span>"{{ post.date | date: '%b %d, %Y' }}"</span>
+      <a id="post-item" href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
