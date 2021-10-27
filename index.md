@@ -8,7 +8,7 @@ title: "Rush Agarwal"
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      <i>{{ post.date }}</i>
+      {{ post.date | date: "%b %d, %Y" }}
       {{ post.excerpt }}
     </li>
   {% endfor %}
