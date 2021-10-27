@@ -14,11 +14,11 @@
     <style>  
       .fa {  
         margin-right: 1rem;
-        border: 2px #fff solid;
+        border: 1px #fff solid;
         border-radius: 50%;
-        height: 20px;
-        width: 20px;
-        line-height: 20px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
         text-align: center;
         padding: 0.5rem; 
       }  
@@ -31,8 +31,8 @@
         color: white;  
       }
       .fa-github {
-        background: white;
-        color: black;
+        background: black;
+        color: white;
       }
       .fa:hover {  
         opacity: 0.9;  
@@ -74,12 +74,12 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages.</a></p>
         <p> Connect with me at:
           <a href="https://www.linkedin.com/in/rushout09/" class="fa fa-linkedin"></a>
           <a href="https://twitter.com/RushabhSAgarwal" class="fa fa-twitter"></a>
           <a href="https://github.com/rushout09" class="fa fa-github"></a>
         </p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages.</a></p>
       </footer>
     </div>
   </body>
