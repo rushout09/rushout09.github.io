@@ -50,6 +50,20 @@
         border-bottom-left-radius: 2px;
         border-bottom-right-radius: 2px;
       }
+      ul#post-list {
+        list-style: none; /* Remove HTML bullets */
+        padding: 0;
+        margin: 0;
+      }
+
+      li#post-item { 
+        padding-left: 16px; 
+      }
+
+      li::before#post-item {
+        content: "{{ post.date | date: '%b %d, %Y' }}"; /* Insert content that looks like bullets */
+        padding-right: 8px;
+      }
       </style>  
   </head>
 

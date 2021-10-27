@@ -4,11 +4,10 @@ title: "Rush Agarwal"
 
 ## Posts
 
-<ul>
+<ul id="post-list">
   {% for post in site.posts %}
-    <li>
+    <li id="post-item">
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.date | date: "%b %d, %Y" }}
       {{ post.excerpt }}
     </li>
   {% endfor %}
