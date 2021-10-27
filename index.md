@@ -9,7 +9,7 @@ title: "Rush Agarwal"
     <li>
       <span>{{ post.date | date: '%b %d, %Y' }}</span>
       <a class="post-item" href="{{ post.url }}">{{ post.title }}</a>
-      <p class="post-item">{{ post.excerpt }}</p>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
