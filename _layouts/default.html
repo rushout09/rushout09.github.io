@@ -42,7 +42,7 @@
         bottom:0;
         right: 10px;
         z-index: 10;
-        padding: 10px 50px 10px 10px;
+        padding: 10px 10px 10px 10px;
         color: #fff;
         background: #0090ff no-repeat 95% 50%;
         font-weight: 700;
@@ -61,7 +61,7 @@
       }
 
       li::before#post-item {
-        content: "{{ post.date | date: '%b %d, %Y' }}"; /* Insert content that looks like bullets */
+        content: "{{ page.date | date: '%b %d, %Y' }}"; /* Insert content that looks like bullets */
         padding-right: 8px;
       }
       </style>  
