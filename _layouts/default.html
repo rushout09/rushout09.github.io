@@ -67,13 +67,15 @@
       </section>
     </div>
 
+    {% if page.path contains "_posts" %}
     <script src="https://utteranc.es/client.js"
         repo="rushout09/rushout09.github.io"
         issue-term="pathname"
-        theme="github-light"
+        theme="github-dark"
         crossorigin="anonymous"
         async>
     </script>
+    {% endif %}
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
@@ -81,6 +83,7 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
+        <p>This site is open source. {% github_edit_link "Improve this page" %}</p>
         <p> Keep in touch:
           <a href="https://www.linkedin.com/in/rushout09/" class="fa fa-linkedin"></a>
           <a href="https://twitter.com/RushabhSAgarwal" class="fa fa-twitter"></a>
