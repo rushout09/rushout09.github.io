@@ -36,6 +36,20 @@
         opacity: 0.9;  
         text-decoration: none;
       }  
+      #home_banner {
+        display: block;
+        position: absolute;
+        bottom:0;
+        right: 10px;
+        z-index: 10;
+        padding: 10px 50px 10px 10px;
+        color: #fff;
+        background: #0090ff no-repeat 95% 50%;
+        font-weight: 700;
+        box-shadow: 0 0 10px rgba(0,0,0,.5);
+        border-bottom-left-radius: 2px;
+        border-bottom-right-radius: 2px;
+      }
       </style>  
   </head>
 
@@ -45,6 +59,7 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
             <a id="forkme_banner" href="{{ site.github.repository_url }}">Improve this page</a>
+            <a id="home_banner" href="{{ site.url }}">Home</a>
 
           <h1 id="project_title">{{ page.title | default: site.github.repository_name }}</h1>
           <!-- <h2 id="project_tagline">{{ page.description | default: site.github.project_tagline }}</h2> -->
