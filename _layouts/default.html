@@ -44,9 +44,8 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-          {% endif %}
+            <p>This site is open source. {% github_edit_link "Improve this page" %}</p>
 
           <h1 id="project_title">{{ page.title | default: site.github.repository_name }}</h1>
           <!--<h2 id="project_tagline">{{ page.description | default: site.github.project_tagline }}</h2>
@@ -65,17 +64,16 @@
       <section id="main_content" class="inner">
         {{ content }}
       </section>
+      {% if page.path contains "_posts" %}
+        <script src="https://utteranc.es/client.js"
+            repo="rushout09/rushout09.github.io"
+            issue-term="pathname"
+            theme="github-dark"
+            crossorigin="anonymous"
+            async>
+        </script>
+      {% endif %}
     </div>
-
-    {% if page.path contains "_posts" %}
-    <script src="https://utteranc.es/client.js"
-        repo="rushout09/rushout09.github.io"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-    </script>
-    {% endif %}
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
@@ -83,13 +81,11 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p>This site is open source. {% github_edit_link "Improve this page" %}</p>
         <p> Keep in touch:
           <a href="https://www.linkedin.com/in/rushout09/" class="fa fa-linkedin"></a>
           <a href="https://twitter.com/RushabhSAgarwal" class="fa fa-twitter"></a>
           <a href="https://github.com/rushout09" class="fa fa-github"></a>
         </p>
-        <p>Published with <a href="https://pages.github.com">GitHub Pages.</a></p>
       </footer>
     </div>
   </body>
