@@ -13,11 +13,14 @@
 
     <style>  
       .fa {  
-        padding: 20px;  
-      text-align: center;  
-        margin: 5px 2px;  
-        font-size: 30px;  
-        width: 50px;  
+        margin-right: 1rem;
+        border: 2px #fff solid;
+        border-radius: 50%;
+        height: 20px;
+        width: 20px;
+        line-height: 20px;
+        text-align: center;
+        padding: 0.5rem; 
       }  
       .fa-twitter {  
         background: #55ACEE;  
@@ -26,17 +29,10 @@
       .fa-linkedin {  
         background: #007bb5;  
         color: white;  
-      }  
-      .fa-instagram {  
-        background: #125688;  
-        color: white;  
-      }  
-      .fa-youtube {  
-        background: #bb0000;  
-        color: white;  
       }
       .fa-github {
-        color: #4183c4;
+        background: white;
+        color: black;
       }
       .fa:hover {  
         opacity: 0.9;  
@@ -78,10 +74,12 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages.</a> Connect with me at: </p>
-        <a href="#" class="fa fa-linkedin"></a>
-        <a href="#" class="fa fa-twitter"></a>
-        <a href="#" class="fa fa-github"></a>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages.</a></p>
+        <p> Connect with me at:
+          <a href="https://www.linkedin.com/in/rushout09/" class="fa fa-linkedin"></a>
+          <a href="https://twitter.com/RushabhSAgarwal" class="fa fa-twitter"></a>
+          <a href="https://github.com/rushout09" class="fa fa-github"></a>
+        </p>
       </footer>
     </div>
   </body>
