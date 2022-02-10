@@ -1,3 +1,7 @@
+---
+title: "The Fall of AI"
+---
+
 A Few decades ago when humans recognized the mystery of how the mind of the most intelligent species on the planet evolves, they probably invented something which is dubbed as last human invention needed ever. 
 
 Algorithms are not only the working model of computers and machines but also of every human being. But it really isn’t algorithms that make humans give themselves the title of most intelligent species, its instinct or in abstract terms pattern. Going through the very initial stages of mankind, the highest level of human intelligence can be attributed to instinct which itself develops through patterns. While artists are well known for working on instincts, it is what helped early men invent fire, food, weapons, shelter and even language. Almost entire science is first based on instinct and then on proofs, be it the very first model of atom or the last human invention needed.
