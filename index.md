@@ -1,5 +1,5 @@
 ---
-title: "Rush Agarwal"
+title: "Rushbh Agarwal"
 ---
 <!-- <iframe src="http://localhost:3000/"></iframe> -->
 ## Posts
