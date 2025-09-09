@@ -8,13 +8,13 @@ Hi, I am Rushabh.
 
 Here's what's been up:
 
-- 2016: Started studying Information Technology at [SRM University](https://www.srmist.edu.in/), Chennai. First time living far from home.
-- 2020: Began my career as a Software Engineer (Testing) at [Commvault Systems](https://commvault.com).
-- 2022: Moved into DevOps at [Hevo Data](https://hevodata.com).
-- 2023: Left my job to pursue entrepreneurship full-time at [Entrepreneur First](https://joinef.com).
-- 2024: Started VedVaani, scaled it into one of the Top 100 Grossing apps in India, and [sold it to Brahmveda Ventures](https://www.entrepreneur.com/en-in/news-and-trends/brahmveda-ventures-acquires-vedvaani-to-pioneer-ai-driven/482668).
-- 2024: Started [SEOExpert AI](https://tryseoexpert.com), an agency to learn and help founders with SEO and marketing.
-- 2025: Joined [Antler](https://antler.co) and started building [Comarketer](https://www.comarketer.dev) - AI Websites & Ads for founders to launch & market faster.
+- **2016**: Started studying **Information Technology** at [SRM University](https://www.srmist.edu.in/), Chennai. First time living far from home.
+- **2020**: Began my career as a **Software Engineer (Testing)** at [Commvault Systems](https://commvault.com).
+- **2022**: Moved into **DevOps** at [Hevo Data](https://hevodata.com).
+- **2023**: Left my job to pursue **entrepreneurship** full-time at [Entrepreneur First](https://joinef.com).
+- **2024**: Started **VedVaani**, scaled it into one of the **Top 100 Grossing apps in India**, and [sold it to Brahmveda Ventures](https://www.entrepreneur.com/en-in/news-and-trends/brahmveda-ventures-acquires-vedvaani-to-pioneer-ai-driven/482668).
+- **2024**: Started [SEOExpert AI](https://tryseoexpert.com), an **agency** to learn and help founders with **SEO and marketing**.
+- **2025**: Joined [Antler](https://antler.co) and started building [Comarketer](https://www.comarketer.dev) - **AI Websites & Ads** for founders to launch & market faster.
 
 It hasn’t been easy. I struggle with anxiety and staying disciplined. Maybe it’s the cost of taking risks and being ambitious.
 
