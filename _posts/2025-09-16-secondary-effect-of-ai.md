@@ -1,5 +1,5 @@
 ---
-title: "The Secondary Effect of AI: More Entrepreneur"
+title: "The Secondary Effect of AI: More Entrepreneurs"
 ---
 
 Every technological shift has a strange kind of second-order effect. With AI, everyone talks about productivity, cost savings, and automation. But the biggest effect won’t be inside large companies. It will be in how many more people decide to start something on their own.
@@ -10,7 +10,7 @@ In India, the number of registered startups has grown 300x in the last decade ([
 
 Globally, the same pattern holds. By 2027, more than half the US workforce is expected to freelance, up from 36% in 2020 ([source](https://www.score.org/resource/blog-post/state-freelancing-america)). Gen Z isn't shy about it: they don't want to work under someone else forever. The SME sector's contribution to India's GDP has already grown from 16.67% in 2015 to 26.47% in 2025. And when companies downsize, people often discover they'd rather work for themselves.
 
-Common wisdom says: build for enterprises, that’s where the big money is. But if you look at the data, the contrarian move is building for new founders. Not just “SMBs” in the old sense — but the millions of people starting niche products, side projects, and small companies. They don’t want bloated software. They don’t want to hire an agency to set up 10 different tools. They want something fast, intuitive, and powerful enough to let them compete.
+Common wisdom says: build for enterprises, that’s where the big money is. But if you look at the data, the contrarian move is building for new founders. Not just “SMBs” in the old sense but the millions of people starting niche products, side projects, and small companies. They don’t want bloated software. They don’t want to hire an agency to set up 10 different tools. They want something fast, intuitive, and powerful enough to let them compete.
 
 This is why I’m building Comarketer. It’s an AI-powered copilot that helps founders launch and market their products without having to stitch together a dozen tools or outsource everything. The bet is simple: the next five years won’t just be about enterprises adopting AI. They’ll be about millions of new entrepreneurs who finally have the leverage to build something of their own.
 
