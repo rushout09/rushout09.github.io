@@ -1,3 +1,8 @@
+---
+title: "Guide to hire developers as a Founder"
+---
+
+
 This is the third time I am starting from scratch and looking to hire developers. The first time was in 2020, just out of college myself. Along with a friend, I filtered through a lot of LinkedIn profiles and took a lot of interviews to find a dev who was in the 2nd year of college. His name was Ashutosh, and he was a 10x dev (he got into MotorQ after he graduated). We hired a couple more fellows after that, but they weren’t as good.
 
 The second time I started from scratch was while building Vedvaani, and again found a couple of good devs after a lot of interviews. I would consider myself lucky to have found them—they helped me ship products within a month in both cases.
