@@ -14,7 +14,7 @@ My explanation:
 Agency is powerful, but leverage is a force multiplier.
 Agency is about taking control and making things happen.
 
-Leverage is about making things happen beyond your control. It’s when your decisions, systems, and incentives start working even when you’re not.
+Leverage is about taking risks and making things happen without your control. It’s when your decisions, systems, and incentives start working even when you’re not.
 
 People with leverage don’t just rely on effort or discipline—they place the right incentives at the right points to multiply their impact. Where agency says, “I’ll do it,” leverage says, “I’ll get it done by someone who can do it 10x better.”
 
