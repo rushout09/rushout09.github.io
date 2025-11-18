@@ -6,7 +6,7 @@ The price of a share depends not only on its intrinsic value but also on how it 
 
 However, if you amplify your perceived value, you are called a fraud. Or at least that is what many of us were taught.
 
-We were also taught to be obedient. To listen to parents, teachers, and the authority. We were told that a good kid does not demand much, does not fight, and stays satisfied with whatever they have. To be humble and never brag.
+We were also taught to be obedient. To listen to parents, teachers, and the authority. We were told that a good kid does not demand much, does not fight, and stays satisfied with whatever they have. To be humble and never brag because empty vessels make the most noise.
 
 Over time we confused humility with self erasure. We began to believe that we must prove our worth before we ask for anything. That talking about our achievements or potential is arrogance.
 
