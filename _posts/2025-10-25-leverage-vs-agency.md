@@ -1,5 +1,5 @@
 ---
-title: "Leverage vs Agency"
+title: "Leverage and Agency"
 ---
 
 
