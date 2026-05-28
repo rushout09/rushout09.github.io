@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
 title: Rush Agarwal
+future: true
 plugins:
   - jemoji
