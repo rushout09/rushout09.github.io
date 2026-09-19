@@ -3,3 +3,5 @@ title: Rush Agarwal
 future: true
 plugins:
   - jemoji
+exclude:
+  - CLAUDE.md
