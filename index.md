@@ -45,6 +45,12 @@ title: "Rushabh Agarwal"
 >
 > J. R. R. Tolkien, The Fellowship of the Ring
 
+### Videos
+
+- [Train Who You Become](https://www.youtube.com/shorts/SHLEAp1CPQ4), Ascendra.
+- [A Reminder To Let Go](https://www.youtube.com/shorts/8tdojVyyNKo), whyDEKHO by Hemant.
+- [4-Year Marketing Degree in 2 Minutes](https://www.youtube.com/shorts/wcXIL6INX4w), GROWTH.
+
 ### Habits
 
 - Cycling
