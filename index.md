@@ -6,12 +6,21 @@ title: "Rushabh Agarwal"
 
 *The duty and work that shape destiny.*
 
-- [Sareeviz](https://sareeviz.com): AI photos and videos for saree and fashion sellers.
-- [Rungs](https://rungslabs.com): five apps, coming soon, that teach calisthenics, running, cycling, swimming and meditation one rung at a time.
-- Publications: a network of niche ones, planned, for the writing and media side of things.
-- SEO consulting for clients.
+### Main quest
+
+A brain-computer interface: reading brain waves well enough to turn thought straight into text and actions, with no keyboard or voice in between. It is the idea that blows my mind and the one I would happily spend years on. It is a moonshot, which is rather the point.
+
+### Side quests
+
+- [Sareeviz](https://sareeviz.com): AI photos and videos for Indian fashion photo studios and ecommerce brands. It began as a problem, and an opportunity, inside my family's textile business, and I happened to be standing in the right spot at the right time, with the right people around me. It is built with AI and sells useful AI to Indian MSMEs, which means it could not have existed at any other point in time. So far it is the thing I have made that earns the most.
+- [doomreader](https://doomreaderapp.com): books, read the way you doomscroll, one short card at a time. I built it because I wanted it. I like reading and have tried hard with Google Books and Kindle, but neither ever turned reading into a habit, so I made the app that could. Then it seemed a waste not to sell it: if it brings in some quiet revenue next to Sareeviz, that is a win. I also have a theory that AI has reached an inflection point, where a habit app like Duolingo takes months to build rather than years.
+- [Rungs Labs](https://rungslabs.com): five apps, coming soon, that teach calisthenics, running, cycling, swimming and meditation one rung at a time.
+
+### Also on the plate
+
+- A network of niche publications, planned.
 - Software for textile manufacturing: an ERP and a platform for designs.
-- A weekly research session with Claude on investments, and probably on which apps and games are worth building. It may grow into a public tracker of what comes out of it.
+- A weekly research session with Claude on investments, and on which apps and games are worth building.
 
 ## Samskara
 
@@ -50,13 +59,6 @@ title: "Rushabh Agarwal"
 - [Train Who You Become](https://www.youtube.com/shorts/SHLEAp1CPQ4), Ascendra.
 - [A Reminder To Let Go](https://www.youtube.com/shorts/8tdojVyyNKo), whyDEKHO by Hemant.
 - [4-Year Marketing Degree in 2 Minutes](https://www.youtube.com/shorts/wcXIL6INX4w), GROWTH.
-
-### Habits
-
-- Cycling
-- Calisthenics
-- Eating right
-- Sleeping on time
 
 ## Posts
 
