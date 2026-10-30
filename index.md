@@ -2,7 +2,7 @@
 title: "Rushabh Agarwal"
 ---
 
-<p class="site-name">Rushabh Agarwal</p>
+<p class="intro"><img class="avatar" src="{{ '/assets/images/rushabh.png' | relative_url }}" alt="Rushabh Agarwal" width="56" height="56"><span class="site-name">Rushabh Agarwal</span></p>
 
 ## About
 
