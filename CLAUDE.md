@@ -15,8 +15,10 @@ Rushabh's personal blog, the "blog repo" in the Content workflow of `~/Repos/wor
 
 - `_posts/YYYY-MM-DD-slug.md`: published posts. The date comes from the filename, and the URL is `/YYYY/MM/DD/slug.html`.
 - `_drafts/`: unpublished writing. GitHub Pages does not build it.
-- `_layouts/default.html`: the one layout. Plain single column on a white background, styles inline, footer links to X, YouTube, LinkedIn and GitHub. It replaces the Slate theme's layout (redesigned 30 Oct 2026); `theme` in `_config.yml` is now unused by the pages.
+- `_layouts/default.html`: the one layout. Plain single column on a white background, styles inline, footer links to Email, X, YouTube, LinkedIn, GitHub and RSS. It replaces the Slate theme's layout (redesigned 30 Oct 2026); `theme` in `_config.yml` is now unused by the pages.
 - `index.md`: the home page. Name, About (Rushabh's own words), and Writing, a list of post titles and dates, newest first.
+- `_config.yml`: site title and description (shown in link previews and the home tab title), the `og-card.png` preview image as the default for every page, and the jekyll-feed (`/feed.xml`, latest 10 posts) and jekyll-sitemap plugins.
+- `assets/icons/`: the favicon set (an R on black).
 - `_parked-home-sections.md`: sections taken off the home page on 30 Oct 2026 (main quest, side quests, books, quotes, videos), kept unpublished.
 - `assets/images/`: images.
 
