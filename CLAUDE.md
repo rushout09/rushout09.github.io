@@ -16,7 +16,10 @@ Rushabh's personal blog, the "blog repo" in the Content workflow of `~/Repos/wor
 - `_posts/YYYY-MM-DD-slug.md`: published posts. The date comes from the filename, and the URL is `/YYYY/MM/DD/slug.html`.
 - `_drafts/`: unpublished writing. GitHub Pages does not build it.
 - `_layouts/default.html`: the one layout. Plain single column on a white background, styles inline, footer links to Email, X, YouTube, LinkedIn, GitHub and RSS. It replaces the Slate theme's layout (redesigned 30 Oct 2026); `theme` in `_config.yml` is now unused by the pages.
-- `index.md`: the home page. Name, About (Rushabh's own words), and Writing, a list of post titles and dates, newest first.
+- `index.md`: the home page, an index. Photo and name, About (Rushabh's own words), then a plain list of links to the subpages (Writing, Photos, Books; add a line there for any new page, e.g. Vlogs).
+- `writing.md`: the post list, titles and dates, newest first.
+- `photos.md` + `_data/instagram.json` + `assets/instagram/`: a grid of his Instagram posts (instagram.com/rushin_out) with their captions. Updated by hand when he asks: the image comes from `https://www.instagram.com/p/<code>/media/?size=l`, the caption from the post. Captions that are only hashtags are left blank.
+- `books.md`: books he is reading, title and author, each linked to Goodreads. No status notes.
 - `_config.yml`: site title and description (shown in link previews and the home tab title), the `og-card.png` preview image as the default for every page, and the jekyll-feed (`/feed.xml`, latest 10 posts) and jekyll-sitemap plugins.
 - `assets/icons/`: the favicon set (an R on black).
 - `_parked-home-sections.md`: sections taken off the home page on 30 Oct 2026 (main quest, side quests, books, quotes, videos), kept unpublished.
