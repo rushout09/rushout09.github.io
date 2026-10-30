@@ -1,7 +1,18 @@
 theme: jekyll-theme-slate
 title: Rushabh Agarwal
+description: "Exploring Brain AI Interface."
+twitter:
+  username: rushout09
+  card: summary_large_image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og-card.png
 future: true
 plugins:
   - jemoji
+  - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - CLAUDE.md
