@@ -7,7 +7,7 @@ Rushabh's personal blog, the "blog repo" in the Content workflow of `~/Repos/wor
 ## How it publishes
 
 - A GitHub Pages site, built from branch `master`, path `/`, by GitHub itself (legacy Jekyll build, theme `jekyll-theme-slate`). Pushing to `master` publishes. Live at https://rushout09.github.io/.
-- There is no Gemfile and no local Jekyll on the Mac, so there is no local preview. Check a change on the live site after the push.
+- There is no Gemfile in the repo. A local preview can run from a scratch folder with the `github-pages` gem under Homebrew Ruby (`PAGES_REPO_NWO=rushout09/rushout09.github.io PAGES_DISABLE_NETWORK=1 bundle exec jekyll serve --source <repo>`). Check the live site after a push either way.
 - Never push unless Rushabh asks.
 - `_config.yml` sets `future: true`, so a post dated in the future is published immediately.
 
@@ -15,9 +15,12 @@ Rushabh's personal blog, the "blog repo" in the Content workflow of `~/Repos/wor
 
 - `_posts/YYYY-MM-DD-slug.md`: published posts. The date comes from the filename, and the URL is `/YYYY/MM/DD/slug.html`.
 - `_drafts/`: unpublished writing. GitHub Pages does not build it.
-- `_layouts/default.html`: the one layout, with the header, footer and social links.
-- `index.md`: the home page, with the quotes and the post list (newest first, with excerpts).
+- `_layouts/default.html`: the one layout. Plain single column on a white background, styles inline, footer links to X, YouTube, LinkedIn and GitHub. It replaces the Slate theme's layout (redesigned 30 Oct 2026); `theme` in `_config.yml` is now unused by the pages.
+- `index.md`: the home page. Name, About (Rushabh's own words), and Writing, a list of post titles and dates, newest first.
+- `_parked-home-sections.md`: sections taken off the home page on 30 Oct 2026 (main quest, side quests, books, quotes, videos), kept unpublished.
 - `assets/images/`: images.
+
+- Rushabh writes his own text here. Do not draft site copy or posts unless he asks.
 
 ## Writing a post
 
