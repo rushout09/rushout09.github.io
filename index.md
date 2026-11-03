@@ -8,7 +8,7 @@ title: "Rushabh Agarwal"
 
 I live in India and have recently started exploring Brain-AI interfaces.
 
-On the side, I run [Sareeviz](https://sareeviz.com), which makes AI photos and videos for Indian fashion brands. It started as a problem I saw in the textile industry.
+On the side, I run [Sareeviz](https://sareeviz.com), which makes AI photos and videos for Indian fashion brands.
 
 I also help run my family's textile weaving factory.
 
