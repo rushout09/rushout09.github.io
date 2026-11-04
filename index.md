@@ -16,4 +16,5 @@ I also help run my family's textile weaving factory.
   <li><a href="{{ '/writing.html' | relative_url }}">Writing</a></li>
   <li><a href="{{ '/photos.html' | relative_url }}">Photos</a></li>
   <li><a href="{{ '/books.html' | relative_url }}">Books</a></li>
+  <li><a href="{{ '/speeches.html' | relative_url }}">Speeches</a></li>
 </ul>
