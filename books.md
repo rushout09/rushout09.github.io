@@ -11,4 +11,5 @@ permalink: /books.html
 - [Shoe Dog](https://www.goodreads.com/book/show/27220736-shoe-dog), Phil Knight.
 - [Made in Japan](https://www.goodreads.com/book/show/1008101.Made_in_Japan), Akio Morita.
 - [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs), Walter Isaacson.
+- [The Greatest Salesman in the World](https://www.goodreads.com/book/show/356896.The_Greatest_Salesman_in_the_World), Og Mandino.
 - [7 Powers](https://www.goodreads.com/book/show/32816087-7-powers), Hamilton Helmer.
