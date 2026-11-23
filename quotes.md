@@ -18,6 +18,10 @@ permalink: /quotes.html
 ## Quotes
 
 <figure class="entry">
+  <blockquote>“We didn't choose this room or this music, but now that we're here, let's dance.”</blockquote>
+  <figcaption>Stephen King</figcaption>
+</figure>
+<figure class="entry">
   <blockquote>“There are always plenty of rivals to our work. We are always falling in love or quarrelling, looking for jobs or fearing to lose them, getting ill and recovering, following public affairs. If we let ourselves, we shall always be waiting for some distraction or other to end before we can really get down to our work. The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavourable. Favourable conditions never come.”</blockquote>
   <figcaption>C. S. Lewis, <cite>Learning in War-Time</cite></figcaption>
 </figure>
