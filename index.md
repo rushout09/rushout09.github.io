@@ -20,4 +20,5 @@ I also help run my family's textile weaving factory.
   <li><a href="{{ '/speeches.html' | relative_url }}">Speeches</a></li>
   <li><a href="{{ '/quotes.html' | relative_url }}">Quotes</a></li>
   <li><a href="{{ '/poems.html' | relative_url }}">Poems</a></li>
+  <li><a href="https://rushout09.github.io/sky-cam/">Sky Cam</a></li>
 </ul>
