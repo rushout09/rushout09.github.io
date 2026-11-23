@@ -7,48 +7,59 @@ permalink: /quotes.html
 <p><a class="site-name" href="{{ '/' | relative_url }}">Rushabh Agarwal</a></p>
 
 <style>
-  .poem p { white-space: pre-wrap; }
+  .entry { margin: 0; padding: 2rem 0; border-top: 1px solid #ececec; }
+  h2 + .entry, h3 + .entry { border-top: none; padding-top: 0.75rem; }
+  .entry blockquote { margin: 0; padding: 0; border: none; color: var(--text);
+    font-family: Georgia, "Times New Roman", serif; font-size: 1.2rem; line-height: 1.65; }
+  .entry figcaption { margin-top: 0.9rem; font-size: 0.85rem; letter-spacing: 0.02em; color: var(--muted); }
+  .entry figcaption cite { font-style: italic; }
+  .poem blockquote { font-size: 1.1rem; line-height: 1.75; }
+  .poem blockquote p { margin: 0 0 1.4rem; white-space: pre-wrap; }
+  .poem blockquote p:last-child { margin-bottom: 0; }
+  h3 { margin-top: 3rem; color: var(--muted); font-weight: 600; font-size: 0.8rem; letter-spacing: 0.12em; text-transform: uppercase; }
 </style>
 
 ## Quotes and poems
 
 ### Quotes
 
-> "The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavourable. Favourable conditions never come."
->
-> C. S. Lewis, Learning in War-Time
-
-> "Let everything happen to you: beauty and terror. Just keep going. No feeling is final."
->
-> Rainer Maria Rilke, Book of Hours
-
-> "Sometimes all you need is twenty seconds of insane courage."
->
-> Benjamin Mee, We Bought a Zoo
-
-> "You accept the fate you think you deserve."
->
-> After Stephen Chbosky's "We accept the love we think we deserve"
-
-> "All great events hang by a single thread. The clever man takes advantage of everything, neglects nothing that may give him some added opportunity; the less clever man, by neglecting one thing, sometimes misses everything."
->
-> Napoleon Bonaparte
-
-> "Love knows not its own depth until the hour of separation."
->
-> Kahlil Gibran, The Prophet
-
-> "It's kind of fun to do the impossible."
->
-> Walt Disney
-
-> "You have the right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, and never be attached to inaction."
->
-> Bhagavad Gita 2.47
+<figure class="entry">
+  <blockquote>“The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavourable. Favourable conditions never come.”</blockquote>
+  <figcaption>C. S. Lewis, <cite>Learning in War-Time</cite></figcaption>
+</figure>
+<figure class="entry">
+  <blockquote>“Let everything happen to you: beauty and terror. Just keep going. No feeling is final.”</blockquote>
+  <figcaption>Rainer Maria Rilke, <cite>Book of Hours</cite></figcaption>
+</figure>
+<figure class="entry">
+  <blockquote>“Sometimes all you need is twenty seconds of insane courage.”</blockquote>
+  <figcaption>Benjamin Mee, <cite>We Bought a Zoo</cite></figcaption>
+</figure>
+<figure class="entry">
+  <blockquote>“You accept the fate you think you deserve.”</blockquote>
+  <figcaption>After Stephen Chbosky's “We accept the love we think we deserve”</figcaption>
+</figure>
+<figure class="entry">
+  <blockquote>“All great events hang by a single thread. The clever man takes advantage of everything, neglects nothing that may give him some added opportunity; the less clever man, by neglecting one thing, sometimes misses everything.”</blockquote>
+  <figcaption>Napoleon Bonaparte</figcaption>
+</figure>
+<figure class="entry">
+  <blockquote>“Love knows not its own depth until the hour of separation.”</blockquote>
+  <figcaption>Kahlil Gibran, <cite>The Prophet</cite></figcaption>
+</figure>
+<figure class="entry">
+  <blockquote>“It's kind of fun to do the impossible.”</blockquote>
+  <figcaption>Walt Disney</figcaption>
+</figure>
+<figure class="entry">
+  <blockquote>“You have the right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, and never be attached to inaction.”</blockquote>
+  <figcaption>Bhagavad Gita, <cite>2.47</cite></figcaption>
+</figure>
 
 ### Poems
 
-<blockquote class="poem">
+<figure class="entry poem">
+  <blockquote>
 <p>If you can keep your head when all about you
     Are losing theirs and blaming it on you,
 If you can trust yourself when all men doubt you,
@@ -81,10 +92,11 @@ If you can fill the unforgiving minute
     With sixty seconds' worth of distance run,
 Yours is the Earth and everything that's in it,
     And—which is more—you'll be a Man, my son!</p>
-<p>Rudyard Kipling, If</p>
-</blockquote>
-
-<blockquote class="poem">
+  </blockquote>
+  <figcaption>Rudyard Kipling, <cite>If</cite></figcaption>
+</figure>
+<figure class="entry poem">
+  <blockquote>
 <p>"All that is gold does not glitter,
 Not all those who wander are lost;
 The old that is strong does not wither,
@@ -93,5 +105,6 @@ Deep roots are not reached by the frost.</p>
 A light from the shadows shall spring;
 Renewed shall be blade that was broken,
 The crownless again shall be king."</p>
-<p>J. R. R. Tolkien, The Fellowship of the Ring</p>
-</blockquote>
+  </blockquote>
+  <figcaption>J. R. R. Tolkien, <cite>The Fellowship of the Ring</cite></figcaption>
+</figure>
