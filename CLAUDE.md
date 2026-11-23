@@ -21,6 +21,8 @@ Rushabh's personal blog, the "blog repo" in the Content workflow of `~/Repos/wor
 - `photos.md` + `_data/instagram.json` + `assets/instagram/`: a grid of his Instagram posts (instagram.com/rushin_out) with their captions. Updated by hand when he asks: the image comes from `https://www.instagram.com/p/<code>/media/?size=l`, the caption from the post. Captions that are only hashtags are left blank.
 - `books.md`: books he is reading, title and author, each linked to Goodreads. No status notes.
 - `vlogs.md`: his personal vlogs on YouTube, title and date, newest first, each linked to the video. Added 4 Nov 2026. The Brain AI series goes on its own page later, alongside other people's videos and articles on Brain-AI interfaces.
+- `movies.md`: films he likes, title and year, each linked to Letterboxd. Added 23 Nov 2026; he keeps adding to it.
+- `quotes.md`: quotes he likes, each with its author and work. `poems.md` lists poems, each on its own page in `poems/`. Added 23 Nov 2026.
 - `speeches.md`: speeches he likes, title and speaker, each linked to the YouTube video. Added 4 Nov 2026.
 - `_config.yml`: site title and description (shown in link previews and the home tab title), the `og-card.png` preview image as the default for every page, and the jekyll-feed (`/feed.xml`, latest 10 posts) and jekyll-sitemap plugins.
 - `assets/icons/`: the favicon set (an R on black).
