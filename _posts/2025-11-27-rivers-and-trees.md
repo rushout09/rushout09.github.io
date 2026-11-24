@@ -2,22 +2,22 @@
 title: "Rivers and Trees"
 ---
 
-River's fate is to have no dignity.
+A river's fate is to have no dignity.
 
-Rivers originates from mighty mountains and flows into irrelevance.
+Rivers originate from mighty mountains, only to flow into irrelevance.
 
-It drag along whatever comes in their way as well.
+They carry along whatever comes their way.
 
-Rivers lack agency, its lifeless.
+Rivers have no courage. They simply flow.
 
-Trees are full of agency and life.
+Trees, on the other hand, are full of agency and life.
 
-They rise from the ground defying gravity.
+They rise from the ground, defying gravity.
 
 They stand tall against the wind and the sun.
 
-It takes years of discipline to bear any fruit or flower.
+It takes years of patience to bear a single fruit or flower.
 
-And yet once they do yield, they give it away.
+And yet, when they finally do, they give it away.
 
-The very seed of a tree is rebellion and its destiny is to give.
+The very seed of a tree is rebellion, and its destiny is to give.
