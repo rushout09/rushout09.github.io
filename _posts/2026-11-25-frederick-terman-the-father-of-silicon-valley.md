@@ -23,6 +23,7 @@ Companies that came because of Terman:
 - **Lockheed, General Electric and Eastman Kodak:** early tenants of the park.
 - **Fairchild Semiconductor:** a later tenant of the park.
 - **Intel:** founded in 1968 by Robert Noyce and Gordon Moore, who left Fairchild.
+- **Nvidia:** co-founded in 1993 in San Jose by Jensen Huang, who had worked at AMD, a company started by people from Fairchild.
 - **Apple:** Steve Wozniak was designing calculators at Hewlett-Packard when he built the Apple I.
 - **Google:** started as a Stanford research project, and Stanford licensed it the PageRank patent.
 - **Facebook:** had its headquarters in the park while it grew from about 20 million to 750 million users.
