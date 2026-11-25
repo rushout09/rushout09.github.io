@@ -15,3 +15,10 @@ After WWII, he did three things:
 3. **Capital:** Made it easier for research to move out of universities and into companies through industry partnerships and technology transfer.
 
 He basically brought the three ingredients of an innovation ecosystem together.
+
+Companies that came because of Terman:
+
+- **Hewlett-Packard:** started in 1939 by his students Bill Hewlett and David Packard, with his encouragement.
+- **Varian Associates:** the first company to lease land in the Stanford Industrial Park, in 1951.
+- **Lockheed, General Electric and Eastman Kodak:** early tenants of the park.
+- **Fairchild Semiconductor:** a later tenant of the park.
